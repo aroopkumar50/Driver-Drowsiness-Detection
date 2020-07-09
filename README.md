@@ -1,5 +1,5 @@
-## Driver-Drowsiness-Detection-System
-# ABSTRACT :-
+# Driver-Drowsiness-Detection-System
+## ABSTRACT :-
 Road accidents are a major cause of deaths, injuries and property damage every year.
 Various reports by the World Health Organisation (WHO) indicate that the total
 number of road traffic deaths across the world has plateaued at 1.25 million per year,
@@ -18,7 +18,7 @@ This whole system can be deployed on portable hardware in the near future which
 could be easily installed in the car for use. The project will thus be able to lower the
 risk of fatal road accidents to a great extent.
 
-# TECHNOLOGY USED:-
+## TECHNOLOGY USED:-
 1. OpenCV(Python)
 2. Dlib
 3. PyCharm IDE
